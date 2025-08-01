@@ -1,30 +1,27 @@
 #+title: John Eismeier Resume
 #+AUTHOR: John Eismeier
 #+KEYWORDS: vita, CV, resume
-#+OPTIONS: toc:nil num:nil
+#+OPTIONS: toc:nil num:nil :noexport:
 #+STARTUP: entitiespretty
 
-*                             John Eismeier
-#+NAME:   John Eismeier
-#+ATTR_HTML: :width 150px
-#+ATTR_LATEX: :width 150px
-#+ATTR_HTML: :align left
-#+ATTR_LATEX: :align left
-#+ATTR_ORG: :align left
-[[./images/6606.png]]
+
+* John Eismeier
+#+attr_html: :class mytable meta :rules all :border nil :cellspacing nil :cellpadding nil :frame nil
+#+attr_latex: :align c|c|c|c
+| [[mailto:email@gmail.com][john.eismeier@yahoo.com]] | [[https://linkedin.com/in/username][linkedin.com/in/johneismeier]] | +1-5086357384  | Worcester, Massachusetts |
 
 
 * Summary
   :PROPERTIES:
   :header-args: :tangle no
   :END:
-  A highly motivated and experienced professional with a strong background in Engineering. Seeking a challenging role where I can leverage my skills and contribute to a successful team.
+  Seeking to champion Linux/HPC/ai/CFD/WebWork/Virtuoso/Calibre/R/Comsol in an academic setting.
 
 * Professional Experience
   :PROPERTIES:
   :header-args: :tangle no
   :END:
-  - **[System Engineer III]** - [Worcester Polytechnic Institute] - [2018-2025]
+  - **System Engineer III** - Worcester Polytechnic Institute - [2018-2025]
     - Teach Linux command line interface introduction supporting students academics.
     - Teach High Performance Computing SLURM introduction enabling research.
     - Enable researchers with software like gprMax, Gurobi, COMSOL, Fluent, SimVascular in HPC environment.
@@ -37,10 +34,10 @@
     - Deploy research driven spack software installs in HPC SLURM environment.
     - Provide guidance on research approach utilizing HPC resources for academic goals.
     - Deploy chronyd for updated time synchronization solution for the campus.
-    - Manage CPU/GPU SLURM PXE image patch management
+    - Manage R1 HPC research cluster with 5k+ CPU/49T RAB/84 GPU and SLURM with PXE image boot/patch management
     - Deploy and Manage RHEL/Ubuntu Infrastructure
 
-  - **[Scrum Master]** - [Dell/EMC Corp.] - [2014-2017]
+  - **Scrum Master** - Dell/EMC Corporation - [2014-2017]
     - Encouraged VPLEX build team delivering
     - Introduce Jenkins/Artifactory to replace legacy product build system with common off the shelf tooling improving build time from 8 hours to 2 hours reliably.
     - Matured new Jenkins/Artifactory build system so that Product Managers were enabled to create product releases to partners and customers.
@@ -56,13 +53,11 @@
     - Protected infrastructure from Ransomware and improved product by repairing HeartBleed, WannaCry and ShellShock issues and managing vulnerabilities for developers and products.
     - FOSS/Blackduck process contributor and earlier adopter socializing how to use; increasing legal approval time of FOSS integration into product.
 
-  - **[Principal Build / Release Engineer]** - [Dell/EMC Corp.] - [2013]
+  - **Principal Build / Release Engineer** - Dell/EMC Corp. - [2012-2013]
     - Proposed Tableau reporting after BI tools evaluation of TIBCO, Pentaho, Tableau; Built server/desktop infrastructure that successfully replaced spreadsheet management.
     - Developed email push automation to mobile devices on daily Tableau reports, keeping management informed of progress and meeting business objectives established each quarter.
     - Learned and mentored current home grown VPLEX build / release platform, keeping software products released to customers.
     - Regular security audit implementing best practice post 2011 hack driving patch management processes and vulnerability assessments.
-
-  - **[Principal Build / Release Engineer]** - [Dell/EMC Corp.] - [2012]
     - Created WPAtools virtual appliance with KIWI build tools SuSE/SLES JeOS platform. Portable disposable web for NetAPP hot spots used in dark / secure data centers. Appliance was patched with seccheck and NESSUS credentialed STIG scan for security application and appliance hardening.
     - Ensured appliance shipment by completing legal compliance and patent review requirements for third-party, expanding VPLEX spreadsheet for legal with VMware branding.
     - "Gold Award of Excellence" for the delivery and support of the WPAtools appliance packaged on a thumb drive.  This appliance included collaboration with Mitrend.  The appliance incorporated XFS, PVSCSI, VMXNET3 drivers for optimization of the analysis and reporting.
@@ -70,26 +65,14 @@
     - Created automation for ClamAV daily product scans migrating away from legacy McAfee reporting deficiencies to Corporate IT and McAfee.
     - "Silver Award of Excellence" for GIT SCM migration proposal replacing legacy CVS solution.
 
-  - **[Senior Linux Engineer]** - [MONSTER WORLDWIDE, Maynard, MA] - [2011-2012]
-    - Site Reliability contributor including pager duty, break/fix work, root cause analysis, capacity planning, log analysis, Cacti, Munin, Nagios, Icinga and splunk.
-    - Enabled business growth by delivering faster performing Linux infrastructure completely DNS managed with use of djbdns and powerdns; large-scale email campaign infrastructure using qmail and sendmail was patched every quarter for vulnerabilities with near zero downtime controlled by Satellite Server/Spacewalk.
-    - Increased capacity of infrastructure meeting developer's resource needs; quarterly patching of mission critical Oracle RAC RHEL Linux for financial operating of company; deployed custom Kickstart / Satellite Server Virtualization for multiple data centers RHEL/CentOS based.
-
-  - **[Principal Release Engineer]** - [START UP COMPANY, Westborough, MA] - [2010]
-    - Certified product was ready for test or release after every successful code commit by automating Jenkins CI server for C++ and Maven / java builds and tests.
-    - Ensured product and developer work environment was virus free by using ClamAV product scans and ESET desktop software, developing Jenkins CI job using Bullseye 8.0.12 test coverage report, and integrating custom Debian packages to development VM.
-
-  - **[EDA / Tools and Infrastructure Engineer]** - [EMC Corporation, Hopkinton, MA]
-
-  - **[Senior Software Tools and Infrastructure Engineer]** - [CLARiiON, Westborough, MA]
-
-  - **[Senior Software Tools Engineer]** - [BOSTON TECHNOLOGY, Wakefield, MA]
-
-  - **[Senior Software Tools Engineer]** - [GE AIRCRAFT, Lynn, MA]
-
-  - **[Senior Engineer]** - [RILEY STOKER, Worcester, MA]
-
-  - **[Mechanical Engineer]** - [COPPUS ENGINEERING CORP., Worcester, MA]
+  - **Senior Linux Engineer** - MONSTER WORLDWIDE, Maynard, MA - [2011-2012]
+  - **Principal Release Engineer** - [START UP COMPANY, Westborough, MA] - [2010]
+  - **EDA / Tools and Infrastructure Engineer** - EMC Corporation, Hopkinton, MA
+  - **Senior Software Tools and Infrastructure Engineer** - CLARiiON, Westborough, MA
+  - **Senior Software Tools Engineer** - BOSTON TECHNOLOGY, Wakefield, MA
+  - **Senior Software Tools Engineer** - GE AIRCRAFT, Lynn, MA
+  - **Senior Engineer** - RILEY STOKER, Worcester, MA
+  - **Mechanical Engineer** - COPPUS ENGINEERING CORP., Worcester, MA
 
 * Education
   :PROPERTIES:
@@ -108,16 +91,4 @@
   - **Databases**: Postgresql, MySQL, Redis, Xapian, MSSQL
   - **Tools**: Gitlab, Coverity, Tableau, JIRA, Nessus STIG, Sonar, Artifactory, Nagios, Cacti, Munin, ossec, Bro,  KIWI, VMware studio, Bullseye, clamscan, savscan, ESET, splunk
   - **Other**: Scrum Master for DevOps and LabOps team, Mentor, Security Vulnerability Management, Open Source Contributor
-
-
-* Contact me
-#+ATTR_HTML: :frame void
-#+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
-|       <r> |                                          |
-|    Phone: | 508.635.7384                             |
-|  Address: | Worcester, MA                            |
-|     Blog: | https://jeis4wpi.github.io               |
-|    Email: | [[mailto:xxx@gmail.com][john.eismeier@yahoo.com]]                  |
-|   Github: | https://github.com/jeis4wpi              |
-| LinkedIn: | https://www.linkedin.com/in/johneismeier |
 
