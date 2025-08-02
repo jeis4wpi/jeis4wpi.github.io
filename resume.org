@@ -29,23 +29,23 @@
     - Transform WebWork with grade passing LTI integration to canvas.
     - Offer Red Hat Academy courses self paced for students.
     - Manage Cadence/Mentor Virtuoso/Calibre ECE design and research infrastructure.
-    - Provide DNA, RNA, protein sequencing for course work and research.
+    - Install DNA, RNA, protein sequencing for course work and research.
     - Deploy slice constraints managing VScode CPU hogging and classic fork bombs.
     - Deploy research driven spack software installs in HPC SLURM environment.
     - Provide guidance on research approach utilizing HPC resources for academic goals.
     - Deploy chronyd for updated time synchronization solution for the campus.
-    - Manage R1 HPC research cluster with 5k+ CPU/49T RAB/84 GPU and SLURM with PXE image boot/patch management
+    - Manage R1 HPC research cluster with 5k+ CPU/49T RAM/84 GPU and SLURM with PXE image boot/patch management
     - Deploy and Manage RHEL/Ubuntu Infrastructure
 
   - **Scrum Master** - Dell/EMC Corporation - [2014-2017]
     - Encouraged VPLEX build team delivering
     - Introduce Jenkins/Artifactory to replace legacy product build system with common off the shelf tooling improving build time from 8 hours to 2 hours reliably.
     - Matured new Jenkins/Artifactory build system so that Product Managers were enabled to create product releases to partners and customers.
-    - Completed migration from legacy Cloud to next generation Cloud Native with near zero downtime of development and release services provided.
+    - Completed migration from legacy Cloud to next generation Cloud Native with near zero downtime of development and release services supplied.
     - Site Reliability contributor configuring Nagios for all critical servers/services in new Cloud Native infrastructure.
     - Improved code quality and received "Silver Award of Excellence" by developing automation using Coverity static analysis tools to block defect introduction during code commit.
     - Consumed Gitlab CE/EE as continuously delivered product by frequent Gitlab deployments via Puppet providing bug fixes, added features, i.e. squash commits.
-    - Transform product defect tracking from legacy ClearQuest to JIRA keeping a backlog of must fix issues that were exposed to leadership team.  Provided operational support/assignment migrating to JIRA.
+    - Transform product defect tracking from legacy ClearQuest to JIRA keeping a backlog of must fix issues that were exposed to leadership team.  Furnished operational support/assignment migrating to JIRA.
     - Safeguarded project/product resources by managing access controls of colleagues that left by driving defect reassignments guided by leadership input.
     - Performed Scrum Master rituals; daily stand up, planned sprints, reviews, and fun retrospective; provided value to business with each sprint; published progress team completed, ensuring staff could learn, review and speed up product delivery.
     - Enabled team members to develop and contribute to product deliverable goals by reviewing and repairing Nagios/Puppetboard reported issues of infrastructure daily.
