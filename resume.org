@@ -4,18 +4,24 @@
 #+OPTIONS: toc:nil num:nil :noexport:
 #+STARTUP: entitiespretty
 
-
-* John Eismeier
-#+attr_html: :class mytable meta :rules all :border nil :cellspacing nil :cellpadding nil :frame nil
-#+attr_latex: :align c|c|c|c
+* **John Eismeier**
 | [[mailto:email@gmail.com][john.eismeier@yahoo.com]] | [[https://linkedin.com/in/username][linkedin.com/in/johneismeier]] | +1-5086357384  | Worcester, Massachusetts |
 
 
-* Summary
+* Professional Summary
   :PROPERTIES:
   :header-args: :tangle no
   :END:
-  Seeking to champion Linux/HPC/ai/CFD/WebWork/Virtuoso/Calibre/R/Comsol in an academic setting.
+
+  HPC administrator with over 15 years of extensive expertise in
+  Linux, HPC, and cloud technologies, adept at optimizing
+  computational resources to foster academic research excellence.
+  Skilled in deploying and managing complex systems, including HPC
+  clusters, bare metal, Nutanix and Proxmox infrastructures, with a
+  proven track record of enhancing system performance and reliability.
+  Passionate about driving innovation in academic settings, leveraging
+  advanced skills in tools like spack, podman, Apptainer, Docker and
+  Ansible to support cutting-edge research initiatives.
 
 * Professional Experience
   :PROPERTIES:
@@ -36,6 +42,7 @@
     - Deploy chronyd for updated time synchronization solution for the campus.
     - Manage R1 HPC research cluster with 5k+ CPU/49T RAM/84 GPU and SLURM with PXE image boot/patch management
     - Deploy and Manage RHEL/Ubuntu Infrastructure
+    - GPU trouble shooting and benchmark
 
   - **Scrum Master** - Dell/EMC Corporation - [2014-2017]
     - Encouraged VPLEX build team delivering
@@ -67,12 +74,6 @@
 
   - **Senior Linux Engineer** - MONSTER WORLDWIDE, Maynard, MA - [2011-2012]
   - **Principal Release Engineer** - [START UP COMPANY, Westborough, MA] - [2010]
-  - **EDA / Tools and Infrastructure Engineer** - EMC Corporation, Hopkinton, MA
-  - **Senior Software Tools and Infrastructure Engineer** - CLARiiON, Westborough, MA
-  - **Senior Software Tools Engineer** - BOSTON TECHNOLOGY, Wakefield, MA
-  - **Senior Software Tools Engineer** - GE AIRCRAFT, Lynn, MA
-  - **Senior Engineer** - RILEY STOKER, Worcester, MA
-  - **Mechanical Engineer** - COPPUS ENGINEERING CORP., Worcester, MA
 
 * Education
   :PROPERTIES:
@@ -85,10 +86,11 @@
   :PROPERTIES:
   :header-args: :tangle no
   :END:
-  - **Languages**: Python, Bash, Puppet, Ansible, YAML, Rake, Make, Cmake, Ruby, SQL, HTML, NodeJS, Maven, Ant, RPM,DPKG, GNU tools, Zypper, dnf
-  - **Platforms**: HPC/ai, Gitlab, VMware/Proxmox/Nutanix, Docker/Apptainer containers, Ubuntu, RedHat, CentOS, SLES,Alpine, Windows, Solaris, HPUX, AIX, Cloud
-  - **Applications**: Jenkins, Gitlab CE/EE, Puppet, Ansible, JIRA, Artifactory, Blackduck, ClamAV, DNS, SAN, NAS, LDAP,Github,WeBWork
-  - **Databases**: Postgresql, MySQL, Redis, Xapian, MSSQL
-  - **Tools**: Gitlab, Coverity, Tableau, JIRA, Nessus STIG, Sonar, Artifactory, Nagios, Cacti, Munin, ossec, Bro,  KIWI, VMware studio, Bullseye, clamscan, savscan, ESET, splunk
-  - **Other**: Scrum Master for DevOps and LabOps team, Mentor, Security Vulnerability Management, Open Source Contributor
+    Python, Bash, Puppet, Ansible, YAML, Rake, Make, Cmake, Ruby, SQL, HTML, NodeJS, Maven, Ant, RPM,DPKG, GNU tools, Zypper, dnf,
+    HPC/ai, Gitlab, VMware, Proxmox, Nutanix, Docker, Apptainer, podman containers, Ubuntu, RedHat, CentOS, SLES,Alpine, Windows, Solaris, HPUX, AIX, Cloud,
+    Jenkins, Gitlab CE/EE, Puppet, Ansible, JIRA, Artifactory,
+    Blackduck, ClamAV, DNS, SAN, NAS, LDAP,Github, WeBWork, 
+    Postgresql, MySQL, Redis, Xapian, MSSQL, SimVascular,
+    Gitlab, Coverity, Tableau, JIRA, Nessus STIG, Sonar, Artifactory, Nagios, Cacti, Munin, ossec, Bro,  KIWI, VMware studio, Bullseye, clamscan, savscan, ESET, splunk,
+    Scrum Master for DevOps and LabOps team, Mentor, Security Vulnerability Management, Open Source Contributor
 
