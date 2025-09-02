@@ -73,21 +73,21 @@
     - "Silver Award of Excellence" for GIT SCM migration proposal replacing legacy CVS solution.
 
   - **Senior Linux Engineer** - MONSTER WORLDWIDE, Maynard, MA - [2011-2012]
-  - **Principal Release Engineer** - [START UP COMPANY, Westborough, MA] - [2010]
+  - **Principal Release Engineer** - START UP COMPANY, Westborough, MA - [2010]
 
 * Education
   :PROPERTIES:
   :header-args: :tangle no
   :END:
-  - **[Masters of Science (MS)]** - [Worcester Polytechnic Institute (WPI), Worcester, MA]
-  - **[Bachelor of Science (BS)]** - [Worcester Polytechnic Institute (WPI), Worcester, MA]
+  - **Masters of Science (MS)** - Worcester Polytechnic Institute (WPI), Worcester, MA
+  - **Bachelor of Science (BS)** - Worcester Polytechnic Institute (WPI), Worcester, MA
 
 * Skills
   :PROPERTIES:
   :header-args: :tangle no
   :END:
     Python, Bash, Puppet, Ansible, YAML, Rake, Make, Cmake, Ruby, SQL, HTML, NodeJS, Maven, Ant, RPM,DPKG, GNU tools, Zypper, dnf,
-    HPC/ai, Gitlab, VMware, Proxmox, Nutanix, Docker, Apptainer, podman containers, Ubuntu, RedHat, CentOS, SLES,Alpine, Windows, Solaris, HPUX, AIX, Cloud,
+    HPC/ai, Gitlab, VMware, Proxmox, Nutanix, Docker, Apptainer, podman containers, Ubuntu, RedHat, CentOS, SLES,Alpine, Windows, Solaris, HPUX, AIX, Cloud, Teach Linux CLI,
     Jenkins, Gitlab CE/EE, Puppet, Ansible, JIRA, Artifactory,
     Blackduck, ClamAV, DNS, SAN, NAS, LDAP,Github, WeBWork, 
     Postgresql, MySQL, Redis, Xapian, MSSQL, SimVascular,
